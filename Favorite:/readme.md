@@ -7,3 +7,4 @@
 
 ## Gnome Builder
 https://flathub.org/apps/org.gnome.Builder
+- https://flatpak.org/faq/#Are_there_any_IDEs_that_support_Flatpak_
